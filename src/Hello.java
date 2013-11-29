@@ -11,7 +11,7 @@ public class Hello {
 	}
 	
 	public static double calculater(double nums, double numd) {
-		return nums * numd / 2;
+		return nums * numd / 3;
 	}
 
 }
